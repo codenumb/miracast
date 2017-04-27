@@ -1,2 +1,2 @@
 # miracast
-private repo
+private repo not for public
